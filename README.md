@@ -1,6 +1,14 @@
 # Weather-App-Project
-• Developed a web application using a Weather API for current weather and 5-day forecast. 
+. Developed a web application using a Weather API for current weather and 5-day forecast. 
 <br>
-• It is used to do the location-based forecasting.
+. Displays current weather conditions including temperature, humidity, wind speed, and weather description.
 <br>
-• Displays current weather conditions including temperature, humidity, wind speed, and weather description.
+. Provide accurate weather updates using API integration. 
+<br>
+. Ensure a seamless user experience with a clean UI. 
+<br>
+. Implement interactive features like location-based search and dark mode toggle. 
+<br>
+. Enhance accessibility through an intuitive design. 
+<br>
+. Store user preferences (dark mode) using LocalStorage. 
